@@ -21,10 +21,9 @@ TrueSmart là một nền tảng thương mại điện tử hiện đại đư�
 - **Quản Lý Nhà Cung Cấp**: Quản lý mối quan hệ với nhà cung cấp
 - **Quản Lý Giao Dịch**: Theo dõi các giao dịch tài chính
 - **Chương Trình Khuyến Mãi**: Tạo và quản lý các khuyến mãi/giảm giá
-- **Quản Lý Phiếu Giảm Giá**: Tạo mã voucher
 - **Cài Đặt Hệ Thống**: Tuỳ chỉnh cấu hình nền tảng
 - **Nhật Ký Hệ Thống**: Theo dõi các hoạt động hệ thống
-- **Theo Dõi Tham Dự**: Quản lý sự kiện và tham dự
+
 
 ## Công Nghệ Sử Dụng
 
@@ -148,10 +147,8 @@ API endpoints được chia theo các route:
 - `/api/transactions` - Giao dịch
 - `/api/chat` - Trò chuyện
 - `/api/deals` - Khuyến mãi
-- `/api/vouchers` - Phiếu giảm giá
 - `/api/settings` - Cài đặt hệ thống
 - `/api/logs` - Nhật ký hệ thống
-- `/api/attendance` - Tham dự
 
 ## Đóng Góp
 
